@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Sederhana</string>
+
+    <string name="label_button_implicit">Klik disini untuk implicit intent</string>
+    <string name="label_button_explicit">Klik disini untuk explicit intent</string>
+
+    <string name="title_activity_intent">Halaman kedua</string>
+</resources>
